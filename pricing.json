@@ -1,0 +1,41 @@
+[
+ {
+  "title": "The Fix Sprint",
+  "id": "prod_GeswmVK5SO6u1",
+  "plans": [
+   {
+    "price": 1450.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_XNSxgNxscPAO1"
+   }
+  ]
+ },
+ {
+  "title": "The Self-Check Pack",
+  "id": "prod_K5oJthjWxWrRH",
+  "plans": [
+   {
+    "price": 19.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_U4nSyg6j236Qo"
+   }
+  ]
+ },
+ {
+  "title": "The Coldread",
+  "id": "prod_uJRtRXKVV870u",
+  "plans": [
+   {
+    "price": 450.0,
+    "cur": "USD",
+    "kind": "one_time",
+    "period": null,
+    "url": "https://whop.com/checkout/plan_ad7rpY2pcvOSL"
+   }
+  ]
+ }
+]
