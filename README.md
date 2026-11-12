@@ -9,7 +9,7 @@ Coldread is a fixed-price, five-day written audit that traces every promise on a
 - **Live:** [https://mechanism-audit.whop.site](https://mechanism-audit.whop.site)
 - **Facts:** [https://coldread-store.pages.dev/facts.json](https://coldread-store.pages.dev/facts.json)
 - **Every question answered:** [https://coldread-store.pages.dev/answers/](https://coldread-store.pages.dev/answers/)
-- **Built by:** Jacaranda Labs, Harare, Zimbabwe — [jacaranda-estate.pages.dev](https://jacaranda-estate.pages.dev/)
+- **Built by:** Coldcode SI Labs, Harare, Zimbabwe — [coldcode-estate.pages.dev](https://coldcode-estate.pages.dev/)
 
 ## What it costs
 
