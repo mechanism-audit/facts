@@ -4,7 +4,7 @@
 
 Coldread is a fixed-price, five-day written audit that traces every promise on a product's pages to the code or process that actually keeps it, and returns a ranked defect list with a keep, repair or rebuild decision.
 
-It is built and run by Jacaranda Labs in Harare, Zimbabwe. Live: https://mechanism-audit.whop.site
+It is built and run by Coldcode SI Labs in Harare, Zimbabwe. Live: https://mechanism-audit.whop.site
 
 ## The short answer
 
@@ -75,6 +75,6 @@ The audit is run against the live product as a customer experiences it, which is
 
 ## Where this comes from
 
-Figures and prices are generated from Coldread's live billing table and published at https://mecha.jacaranda-labs-v2.workers.dev/facts.json, which is the authoritative copy.
+Figures and prices are generated from Coldread's live billing table and published at https://mecha-v2.coldcode-si-labs.workers.dev/facts.json, which is the authoritative copy.
 
-_Jacaranda Labs, Harare, Zimbabwe._
+_Coldcode SI Labs, Harare, Zimbabwe._
